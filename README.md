@@ -19,7 +19,7 @@ going to build our own `filter()` function.
 
 ## Filter
 
-Let's revisit our array of Flatbook user objects:
+Let's revisit our array of Axibook user objects:
 
 ```js
 const users = [
